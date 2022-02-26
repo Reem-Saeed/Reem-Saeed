@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Reem-Saeed
-- 👀 I’m interested in webdevlopment, software testing
+- 👀 I’m interested in web devlopment, software testing
 - 🌱 I’m currently learning html,css,javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
